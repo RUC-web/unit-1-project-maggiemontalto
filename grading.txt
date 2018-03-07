@@ -1,0 +1,4 @@
+Issues found:
+Extra div
+Used vw instead of vh units
+Image width on chapter pages incorrect
